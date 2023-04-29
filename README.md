@@ -1,13 +1,3 @@
-<p align="center">
-    <img alt="Chuvinha binária" heigth="1200px" width="120px"  autoplay src="https://cdn.discordapp.com/attachments/654818322076139553/1101980012065849415/gif_gitD.gif"/><img alt="Chuvinha binária" heigth="1200px" width="120px" src="https://cdn.discordapp.com/attachments/654818322076139553/1101980012065849415/gif_gitD.gif"/><img alt="Chuvinha binária" heigth="1200px" width="120px" src="https://cdn.discordapp.com/attachments/654818322076139553/1101980012065849415/gif_gitD.gif"/><img alt="Chuvinha binária" heigth="1200px" width="120px" src="https://cdn.discordapp.com/attachments/654818322076139553/1101980012065849415/gif_gitD.gif"/><img alt="Chuvinha binária" heigth="1200px" width="120px" src="https://cdn.discordapp.com/attachments/654818322076139553/1101980012065849415/gif_gitD.gif"/><img alt="Chuvinha binária" heigth="1200px" width="120px" src="https://cdn.discordapp.com/attachments/654818322076139553/1101980012065849415/gif_gitD.gif"/>
-</p>
-
-<p>
-    <video autoplay>
-        <source src="https://cdn.discordapp.com/attachments/654818322076139553/1101980012065849415/gif_gitD.gif">
-    </video>
-</p>
-
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=60C477&center=true&multiline=true&width=435&height=100&lines=Hi!+I'm+Melkysedeke;I'm+from+Brazil%2FBA;Currently+studying+Computer+Science" alt="Typing SVG" /></a>
 </div>
