@@ -1,8 +1,11 @@
-<!-- <p align="center">
-    <img align="center" alt="Chuvinha binária" heigth="1200px" width="120px" src="https://cdn.discordapp.com/attachments/654818322076139553/1101973996146282657/gif_git.gif"/><img align="center" alt="Chuvinha binária" heigth="1200px" width="120px" margin="0" src="https://cdn.discordapp.com/attachments/654818322076139553/1101973996146282657/gif_git.gif"/><img align="center" alt="Chuvinha binária" heigth="1200px" width="120px" src="https://cdn.discordapp.com/attachments/654818322076139553/1101973996146282657/gif_git.gif"/><img align="center" alt="Chuvinha binária" heigth="1200px" width="120px" src="https://cdn.discordapp.com/attachments/654818322076139553/1101973996146282657/gif_git.gif"/><img align="center" alt="Chuvinha binária" heigth="1200px" width="120px" src="https://cdn.discordapp.com/attachments/654818322076139553/1101973996146282657/gif_git.gif"/><img align="center" alt="Chuvinha binária" heigth="1200px" width="120px" src="https://cdn.discordapp.com/attachments/654818322076139553/1101973996146282657/gif_git.gif"/>
-</p> -->
+<p align="center">
+    <img alt="Chuvinha binária" heigth="1200px" width="120px"  autoplay src="https://cdn.discordapp.com/attachments/654818322076139553/1101980012065849415/gif_gitD.gif"/><img alt="Chuvinha binária" heigth="1200px" width="120px" src="https://cdn.discordapp.com/attachments/654818322076139553/1101980012065849415/gif_gitD.gif"/><img alt="Chuvinha binária" heigth="1200px" width="120px" src="https://cdn.discordapp.com/attachments/654818322076139553/1101980012065849415/gif_gitD.gif"/><img alt="Chuvinha binária" heigth="1200px" width="120px" src="https://cdn.discordapp.com/attachments/654818322076139553/1101980012065849415/gif_gitD.gif"/><img alt="Chuvinha binária" heigth="1200px" width="120px" src="https://cdn.discordapp.com/attachments/654818322076139553/1101980012065849415/gif_gitD.gif"/><img alt="Chuvinha binária" heigth="1200px" width="120px" src="https://cdn.discordapp.com/attachments/654818322076139553/1101980012065849415/gif_gitD.gif"/>
+</p>
+
 <p>
-    <img align="center" alt="Chuvinha binária" heigth="1200px" width="120px" src="https://cdn.discordapp.com/attachments/654818322076139553/1101980012065849415/gif_gitD.gif" autoplay/>
+    <video autoplay>
+        <source src="https://cdn.discordapp.com/attachments/654818322076139553/1101980012065849415/gif_gitD.gif">
+    </video>
 </p>
 
 <div align="center">
