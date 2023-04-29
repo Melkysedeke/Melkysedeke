@@ -1,4 +1,6 @@
 ### Olá, eu sou Melkysedeke
 
-![Melky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melkysedeke&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melkysedeke&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+    <img height=180cm src="https://github-readme-stats.vercel.app/api?username=Melkysedeke&show_icons=true&theme=dark"/>
+    <img height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melkysedeke&layout=compact&theme=dark"/>
+</div>
