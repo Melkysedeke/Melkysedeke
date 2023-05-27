@@ -9,3 +9,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melkysedeke&layout=compact&theme=dark&title_color=60C477&size_weight=1.0&count_weight=1.0"/>
     </P>
 </div>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/Melkysedeke-costa-santos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0B080C?style=for-the-badge&logo=linkedin&logoColor=60C477"</a>
+</div>
